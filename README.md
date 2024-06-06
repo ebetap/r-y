@@ -1,5 +1,8 @@
 ### Dokumentasi API dan Cara Penggunaan
 
+99% safe. Everything will be safe if all humans have ethics
+
+
 #### Deskripsi
 Library ini menyediakan kelas untuk manajemen kunci enkripsi dan enkripsi/dekripsi pesan menggunakan kombinasi AES-GCM dan RSA-OAEP. Kunci AES digunakan untuk enkripsi simetris pesan, sementara RSA digunakan untuk mengenkripsi kunci AES.
 
